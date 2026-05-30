@@ -10,7 +10,7 @@ An NLP-based SMS and Email spam detection web application built with Machine Lea
 
 ## 🚀 Live Demo
 
-👉 [Try the app on Streamlit Cloud](https://share.streamlit.io/kaushalkumarma2025/sms_spam_detection)
+👉 [Try the app on Streamlit Cloud](https://smsspamdetection-42raz4ncuvcayabxb5cagy.streamlit.app)
 
 ---
 
